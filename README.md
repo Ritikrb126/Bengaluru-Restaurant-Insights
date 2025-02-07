@@ -1,12 +1,10 @@
-# engaengaluru-Restaurant-Insights # 🍽️ Bengaluru Restaurant Analysis Dashboard  
+# 🍽️ Bengaluru Restaurant Analysis Dashboard  
 
 🚀 **Data-Driven Insights for Opening a New Restaurant in Bengaluru**  
 
 📊 This project analyzes Bengaluru's restaurant industry to help entrepreneurs make **data-backed decisions** on **location, cuisine, pricing, and service model.**  
 
-![Dashboard Preview](./path-to-your-dashboard-image.png)  
-*(Replace with the actual image path in your repo)*  
-
+![zomato dashboard](https://github.com/user-attachments/assets/a555cad7-534e-4cfa-9d25-0f91400f2a2a) 
 ---
 
 ## 📌 **1. Choosing the Right Location**  
@@ -107,24 +105,17 @@ With **41,000+ competitors across 30 locations**, you need a **strong USP**.
 
 ## 📢 **Project Details**  
 
-📌 **Dataset:** [Bengaluru Restaurant Dataset](#) *(Replace with your dataset link)*  
-📌 **Dashboard:** Built using **Excel, Power BI/Tableau**  
-📌 **Author:** *Your Name*  
-📌 **GitHub Repo:** [Repository Link](#) *(Replace with your repo link)*  
-
----
-
-## 📷 **Dashboard Screenshots**  
-
-![Dashboard Screenshot](./path-to-your-dashboard-image.png)  
-*(Replace with the actual image path in your repo)*  
+📌 **Dataset:** [Bengaluru Restaurant Dataset](#) *https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants*  
+📌 **Dashboard:** Built using **Excel(Power Query,Pivot Table, Data Model)**  
+📌 **Author:** *Ritik Bhoyar*  
+📌 **GitHub Repo:** [Repository Link](#) *https://github.com/Ritikrb126?tab=repositories*  
 
 ---
 
 ### 📢 **Want to contribute?**  
 If you have suggestions or improvements, feel free to **open an issue or pull request**.  
 
-📌 **Contact:** *Your LinkedIn/GitHub Profile*  
+📌 **Contact:** *https://github.com/Ritikrb126*  
 
 💡 **Star this repo if you found it useful!** ⭐  
 

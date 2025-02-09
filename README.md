@@ -1,9 +1,10 @@
 # 🍽️ Bengaluru Restaurant Analysis Dashboard  
 
 # 📊 Data-Driven Strategy for Opening a New Restaurant in Bengaluru
-![Dashboard_Zomato_restaurant](https://github.com/user-attachments/assets/3286d42d-a854-41c7-bed8-23432944549a)
-  
+![Dashboard_Zomato_restaurant](https://github.com/user-attachments/assets/8f6bfc87-6041-490c-b0d5-c68e9f119afb)
 
+
+  
 📊 This project analyzes Bengaluru's restaurant industry to help entrepreneurs make **data-backed decisions** on **location, cuisine, pricing, and service model.**  
 
 
